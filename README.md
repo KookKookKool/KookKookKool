@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Krisenh's github stats](https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on  
   - Employee ERP app (Node.js + MySQL)  
@@ -26,4 +26,4 @@
 - ⚡ Fun fact:  
   I’m an introvert who codes by day and creates my project and other campaigns by night!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool)](https://github.com/anuraghazra/github-readme-stats)
+

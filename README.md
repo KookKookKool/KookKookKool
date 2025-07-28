@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on  
-  - Employee ERP app (Node.js + MySQL)  
+  - Dating App (Flutter + Supabase)
   - E-commerce platform (Next.js + Firebase)  
   - 3D simple website with e-commerce  
 - 🌱 I’m currently learning  

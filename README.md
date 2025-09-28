@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on  
   - Dating App (Flutter + Supabase)
-  - E-commerce platform (Next.js + Firebase)  
-  - 3D simple website with e-commerce  
+  - Smart Telemed Medical Video Call
 - 🌱 I’m currently learning  
   - AI & Machine Learning fundamentals  
   - Mobile App Developer With Flutter

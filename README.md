@@ -16,14 +16,12 @@
 - ⚡ **Fun Fact:** Introvert by day, Crypto strategist & coder by night! 🌙
 
 <br/>
-
 <div align="center">
   <h3>📊 Overall Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KookKookKool&theme=tokyonight" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">

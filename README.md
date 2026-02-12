@@ -18,11 +18,9 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Coding Stats & Languages</h3>
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KookKookKool&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <h3>📊 Overall Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
@@ -38,11 +36,10 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Activity Graph</h3>
+  <h3>📈 Activity Graph</h3>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KookKookKool&theme=tokyonight" />
   </a>
-</div>
 </div>
 
 <br/>

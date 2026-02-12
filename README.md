@@ -19,11 +19,30 @@
 
 <div align="center">
   <h3>📊 Coding Stats & Languages</h3>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </p>
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KookKookKool&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 Coding Streak</h3>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KookKookKool&theme=tokyonight&hide_border=true&background=0D1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Activity Graph</h3>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KookKookKool&theme=tokyonight" />
+  </a>
+</div>
 </div>
 
 <br/>

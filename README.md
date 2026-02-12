@@ -20,13 +20,10 @@
 <div align="center">
   <h3>📊 Coding Stats & Languages</h3>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide_progress=false"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KookKookKool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KookKookKool&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  </p>
 </div>
 
 <br/>
@@ -42,7 +39,6 @@
 
   <div style="margin-top: 5px;">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </div>
 </div>
